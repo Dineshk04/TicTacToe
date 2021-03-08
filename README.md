@@ -1,4 +1,4 @@
-<h1 align="center">TicTacToe Game</h1>
+<h1 align="center">TicTacToe Game(AI)</h1>
 
 
 
